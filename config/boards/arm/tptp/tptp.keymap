@@ -29,7 +29,7 @@
 	&kp CAPS                     &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J  &kp K  &kp L  &kp SEMI &kp SQT                               &kp RET
 	&kp LSHFT                      &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA &kp DOT &kp FSLH                               &kp RSHFT
 	&mo 1  &kp LCTRL  &kp LGUI  &kp LALT                    &kp SPACE                   &kp RALT  &kp PSCRN  &kp RCTRL  &kp PG_UP  &kp UP  &kp PG_DOWN
-	                                                                                                                    &kp LEFT  &kp DOWN   &kp RIGHT
+	&kp LEFT  &kp DOWN   &kp RIGHT
 			>;
 		};
 
